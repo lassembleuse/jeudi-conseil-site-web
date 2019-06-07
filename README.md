@@ -1,10 +1,8 @@
 # Programme et ressources pour les jeudi conseil de Kejal
 
-https://lassembleuse.github.io/jeudi-conseil-site-web/
-
 En juin 2019, l'assembleuse anime quelques sessions des [jeudi conseil](https://www.kejal.fr/le-petit-pre-lieu-partage/au-quotidien/les-ateliers-conseils-du-jeudi/) autour de la conception de site web pour un public d'entrepreneur·ses de l’économie solidaire et du développement durable.
 
-Ce dossier regroupe le descriptif de ses sessions, des ressources, ainsi que probablement quelques notes à la volée + ou - en vrac.
+Ce dossier regroupe le descriptif de ces sessions, des ressources, ainsi que probablement quelques notes à la volée + ou - en vrac.
 
 Bien entendu, le contenu est plus que susceptible d'évoluer d'ici les ateliers, et même après :)
 

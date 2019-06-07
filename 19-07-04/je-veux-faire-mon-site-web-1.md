@@ -1,7 +1,5 @@
 # Jeudi 04 juillet - Je veux faire mon site web !
 
-**Je veux faire mon site web moi-même !** 
-
 Etre autonome en développant soi-même son site web.
 
 
