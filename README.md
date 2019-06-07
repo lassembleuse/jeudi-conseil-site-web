@@ -1,17 +1,18 @@
 # Programme et ressources pour les jeudi conseil de Kejal
 
-En juin 2019, l'assembleuse (Claire Zuliani) anime quelques sessions des [jeudi conseil](https://www.kejal.fr/le-petit-pre-lieu-partage/au-quotidien/les-ateliers-conseils-du-jeudi/) autour de la conception de site web pour un public d'entrepreneur.e de l’économie solidaire et du développement durable.
+https://lassembleuse.github.io/jeudi-conseil-site-web/
 
-Ce dossier regroupe le programme de ses sessions ainsi que des ressources en lien, ainsi que probablement quelques notes à la volée + ou - en vrac.
+En juin 2019, l'assembleuse anime quelques sessions des [jeudi conseil](https://www.kejal.fr/le-petit-pre-lieu-partage/au-quotidien/les-ateliers-conseils-du-jeudi/) autour de la conception de site web pour un public d'entrepreneur·ses de l’économie solidaire et du développement durable.
 
-Bien entendu, le contenu est plus que susceptible d'évoluer d'ici juin, et même après :)
+Ce dossier regroupe le descriptif de ses sessions, des ressources, ainsi que probablement quelques notes à la volée + ou - en vrac.
+
+Bien entendu, le contenu est plus que susceptible d'évoluer d'ici les ateliers, et même après :)
 
 ## Présentation synthétique
 
-Quand on lance ou qu’on développe son activité, on est souvent démuni pour réaliser son site web ou choisir ses outils numériques. 
+Quand on lance ou qu’on développe son activité, on est souvent démuni pour réaliser son site web ou choisir ses outils numériques.
 
-Site, application, hébergement, nom de domaine... Qu’est-ce qu’il faut
-prévoir ? Quelles sont les différentes solutions qui existent, notamment si on veut des outils éthiques, responsables, sobres ? Combien ça coûte et comment je travaille avec un prestataire ? Et si je veux faire moi-même mon site web ? 
+Site, application, hébergement, nom de domaine... Qu’est-ce qu’il faut prévoir ? Quelles sont les différentes solutions qui existent, notamment si on veut des outils éthiques, responsables, sobres ? Combien ça coûte et comment je travaille avec un prestataire ? Et si je veux faire moi-même mon site web ? 
 
 De la théorie à la pratique, chaque matinée on avance vers plus d’autonomie ; et les après-midi sont ouvertes à toutes les questions et de l’accompagnement libre.
 

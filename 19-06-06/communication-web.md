@@ -17,7 +17,7 @@ Ci-dessous, une prise de note à la volée.
 
 - Olivier : regard sur son site web
 - Julie : vaut-il mieux créer un site ou machiner avec les réseaux sociaux ? Qu'est-ce qui est le + judicieux ? Ce qui me bloque c'est montrer mes nouvelles à tout le monde. C'est quoi la diférence entre réseaux sociaux et site web, est-ce que les 2 sont vraiment utiles ?
-- Cathy : Vaut mieux blog, site, résaux ? Ca dépend de quoi ? Comment on choisit ou on allie les deux ? "J'utiliserais bien facebook mais pour moi ça ne suffit plus". Et le coût ?  Est-ce qu'il y a autre chose qui existe ?
+- Cathy : Vaut mieux blog, site, réseaux ? Ca dépend de quoi ? Comment on choisit ou on allie les deux ? "J'utiliserais bien facebook mais pour moi ça ne suffit plus". Et le coût ?  Est-ce qu'il y a autre chose qui existe ?
 - Awena : facebook, instagram, je connais pas... Fonctionnement avec les hashtags, car a priori ça marche comme ça ??
 - Edith : comment faire son site soi-même ? Y'en a qui disent que c'est facile
 - Julie : B.A.BA, conseil sur un bon site web, les erreurs à viter (en mettre trop ou pas assez). Sur réseaux sociaux, comment gérer, pas publier trop ou pas assez ?
