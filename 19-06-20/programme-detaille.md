@@ -94,7 +94,7 @@ Cahier des charges ou pas ?
 
 ## Sujets abordés dans la matinée 
 
-![Tableau en fin de matinée](/images/IMG_20190620_123359.jpg)
+![Tableau en fin de matinée](../images/IMG_20190620_123359.jpg)
 
 - framasoft
 - wixsite / squarespace
