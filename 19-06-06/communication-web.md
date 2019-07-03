@@ -20,7 +20,7 @@ Ci-dessous, une prise de note à la volée.
 - Cathy : Vaut mieux blog, site, réseaux ? Ca dépend de quoi ? Comment on choisit ou on allie les deux ? "J'utiliserais bien facebook mais pour moi ça ne suffit plus". Et le coût ?  Est-ce qu'il y a autre chose qui existe ?
 - Awena : facebook, instagram, je connais pas... Fonctionnement avec les hashtags, car a priori ça marche comme ça ??
 - Edith : comment faire son site soi-même ? Y'en a qui disent que c'est facile
-- Julie : B.A.BA, conseil sur un bon site web, les erreurs à viter (en mettre trop ou pas assez). Sur réseaux sociaux, comment gérer, pas publier trop ou pas assez ?
+- Julie : B.A.BA, conseil sur un bon site web, les erreurs à éviter (en mettre trop ou pas assez). Sur réseaux sociaux, comment gérer, pas publier trop ou pas assez ?
 - Cathy : alimenter les réseaux, comment on alimente, comment ne pas y passer trop de temps ?
 - Julie : identifier les fournisseurs de site web ? (hébergeurs ?)
 
