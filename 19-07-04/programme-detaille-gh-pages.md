@@ -73,18 +73,18 @@ Liste de tous les dépôts des thèmes : [https://github.com/pages-themes](https
 
 ## Ressources pour les participants
 
-- https://gitlab.com/pages?page=1 : exemple de sites générés sur gitlab pages avec différents générateurs de sites statiques
+- [https://gitlab.com/pages?page=1](https://gitlab.com/pages?page=1) : exemple de sites générés sur gitlab pages avec différents générateurs de sites statiques
 
 # Quelques liens utiles
 
-- ⚙️ Assemblage avec Jekyll : https://jekyllrb.com/docs/
-  - Variables : https://jekyllrb.com/docs/variables/
-  - Filtres de données : https://jekyllrb.com/docs/liquid/filters/
-  - Gabarits : https://jekyllrb.com/docs/layouts/
-  - Inclusions : https://jekyllrb.com/docs/includes/
-- 📝 Syntaxe Markdown (`.md`) : https://fr.wikipedia.org/wiki/Markdown#Quelques_exemples
-- 🎨 Présentation avec CSS : https://developer.mozilla.org/fr/docs/Web/CSS/Reference
-- 🏷 Structure avec HTML : https://developer.mozilla.org/fr/docs/Web/HTML/Element
+- ⚙️ Assemblage avec Jekyll : [https://jekyllrb.com/docs/](https://jekyllrb.com/docs/)
+  - Variables : [https://jekyllrb.com/docs/variables/](https://jekyllrb.com/docs/variables/)
+  - Filtres de données : [https://jekyllrb.com/docs/liquid/filters/](https://jekyllrb.com/docs/liquid/filters/)
+  - Gabarits : [https://jekyllrb.com/docs/layouts/](https://jekyllrb.com/docs/layouts/)
+  - Inclusions : [https://jekyllrb.com/docs/includes/](https://jekyllrb.com/docs/includes/)
+- 📝 Syntaxe Markdown (`.md`) : [https://fr.wikipedia.org/wiki/Markdown#Quelques_exemples](https://fr.wikipedia.org/wiki/Markdown#Quelques_exemples)
+- 🎨 Présentation avec CSS : [https://developer.mozilla.org/fr/docs/Web/CSS/Reference](https://developer.mozilla.org/fr/docs/Web/CSS/Reference)
+- 🏷 Structure avec HTML : [https://developer.mozilla.org/fr/docs/Web/HTML/Element](https://developer.mozilla.org/fr/docs/Web/HTML/Element)
 
 
 
@@ -94,7 +94,7 @@ Liste de tous les dépôts des thèmes : [https://github.com/pages-themes](https
 - https://github.com/oncletom/enssib-m2-pn#pr%C3%A9-requis
 - https://github.com/oncletom/m2-transfo-num
 
-- https://putaindecode.io/articles/creer-un-site-web-gratuitement-avec-github-pages/
-- https://www.christopheducamp.com/2013/12/21/demarrer-avec-pages-github/
-- https://pages.github.com/
-- https://guides.github.com/features/pages/
+- [https://putaindecode.io/articles/creer-un-site-web-gratuitement-avec-github-pages/](https://putaindecode.io/articles/creer-un-site-web-gratuitement-avec-github-pages/)
+- [https://www.christopheducamp.com/2013/12/21/demarrer-avec-pages-github/](https://www.christopheducamp.com/2013/12/21/demarrer-avec-pages-github/)
+- [https://pages.github.com/](https://pages.github.com/)
+- [https://guides.github.com/features/pages/](https://guides.github.com/features/pages/)

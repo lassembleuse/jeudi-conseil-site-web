@@ -10,7 +10,7 @@ Bien entendu, le contenu est plus que susceptible d'évoluer d'ici les ateliers,
 
 Quand on lance ou qu’on développe son activité, on est souvent démuni pour réaliser son site web ou choisir ses outils numériques.
 
-Site, application, hébergement, nom de domaine... Qu’est-ce qu’il faut prévoir ? Quelles sont les différentes solutions qui existent, notamment si on veut des outils éthiques, responsables, sobres ? Combien ça coûte et comment je travaille avec un prestataire ? Et si je veux faire moi-même mon site web ? 
+Site, application, hébergement, nom de domaine... Qu’est-ce qu’il faut prévoir ? Quelles sont les différentes solutions qui existent, notamment si on veut des outils éthiques, responsables, sobres ? Combien ça coûte et comment je travaille avec un prestataire ? Et si je veux faire moi-même mon site web ?
 
 De la théorie à la pratique, chaque matinée on avance vers plus d’autonomie ; et les après-midi sont ouvertes à toutes les questions et de l’accompagnement libre.
 
