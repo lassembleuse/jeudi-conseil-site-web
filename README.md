@@ -16,5 +16,5 @@ De la théorie à la pratique, chaque matinée on avance vers plus d’autonomie
 
 ## Les sessions
 
-- [Jeudi 20 juin - Je veux un site web !](19-06-20/je-veux-un-site-web.md)
-- [Jeudi 4 juillet - Je veux faire mon site web moi-même !](19-07-04/je-veux-faire-mon-site-web-1.md)
+- [Jeudi 20 juin - Je veux un site web !](19-06-20/je-veux-un-site-web.md) ([compte-rendu](19-06-20/compte-rendu.md))
+- [Jeudi 4 juillet - Je veux faire mon site web moi-même !](19-07-04/je-veux-faire-mon-site-web-1.md) ([programme détaillé](19-07-04/programme-detaille-gh-pages.md))
