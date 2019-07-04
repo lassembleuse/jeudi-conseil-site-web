@@ -16,7 +16,7 @@ Site simple, HTML, CSS et éventuellement du javascript. Toutes les pages sont g
 
 ### Un site tout simple avec un thème
 
-- rendez-vous sur https://github.com, et créez un compte gratuit
+- rendez-vous sur [https://github.com](https://github.com), et créez un compte gratuit
 - Créez un nouveau `repository`, et l'initialiser avec un fichier `read.me`
 - Aller dans `settings` -> Github pages -> sélectionner `master branch` comme source et sauver.
 - Se rendre sur son site en ligne :)
